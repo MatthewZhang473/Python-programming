@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
+import math
 
 
 Voltages = [3.1,3.25,3.5,4,4.06,4.16]
